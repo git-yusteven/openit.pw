@@ -7,7 +7,7 @@
         <n-card style="margin-top: 15px">
           <n-result :status="resultStatus" :title="resultTitle">
             <template #footer>
-              <n-button @click="goToDocs">返回 openit.daycat.space</n-button>
+              <n-button @click="goToDocs">前往 openit.daycat.space</n-button>
             </template>
           </n-result>
           <n-divider />
