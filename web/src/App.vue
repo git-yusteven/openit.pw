@@ -40,7 +40,7 @@
             自动化程序预计在10分钟内介入
           </n-alert>
           <div v-if="showErrorAlert == false">
-            请更换为以下订阅
+            请更换为以下订阅链接
             <n-h2>Clash</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/5feeddfd-f327-4a99-9277-9a7edd406226?style=flat&theme=default" loading="lazy" />
